@@ -880,7 +880,7 @@ const isQuotedSticker = type === 'extendedTextMessage' && content.includes('stic
 
 				})	
 
-
+   }
 
 			}
 
