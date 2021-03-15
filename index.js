@@ -882,7 +882,7 @@ const isQuotedSticker = type === 'extendedTextMessage' && content.includes('stic
 
    }
 
-			}
+	
 
 if (budy.includes(`alpin`)) {
                 const alpin = fs.readFileSync('./alpinstiker/alpin');
